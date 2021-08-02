@@ -1,6 +1,4 @@
 ### Oi! Eu sou o Nathan Souza
-
-- 👨🏽‍🎓 Formado em Redes de Computadores com Pós graduação em Docência do Ensino Superior
 - 📚 Estudando HTML/CSS/JavaScript
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Apaixonado por Harry Potter
